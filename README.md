@@ -67,5 +67,6 @@ pnpm lint           # turbo lint (if configured)
 pnpm check-types    # turbo typecheck
 pnpm --filter web dev|build|start
 ```
+![Logo](https://github.com/oumer922/habit-web-monorepo/blob/main/apps/web/app/sample.png)
 
 ---
